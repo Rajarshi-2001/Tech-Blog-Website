@@ -4,3 +4,6 @@ Tech Fusion Hub is a website which has four section HOME,BLOG,ABOUT,LOGIN. It en
 
 output->
 ![TFH](https://github.com/Rajarshi-2001/Tech-Blog-Website/assets/121023938/7386433a-8e63-4444-b6b7-5c53d277ce36)
+
+
+![TFH1](https://github.com/Rajarshi-2001/Tech-Blog-Website/assets/121023938/5ac1d6fb-a7d5-44d6-b52d-8c3e1cc3878b)
